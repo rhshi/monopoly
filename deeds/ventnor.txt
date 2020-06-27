@@ -1,0 +1,12 @@
+title deed
+ventnor ave.
+yellow
+22
+110
+330
+800
+975
+1150
+130
+150
+150

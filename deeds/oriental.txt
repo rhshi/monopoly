@@ -1,0 +1,12 @@
+title deed
+oriental ave.
+blue
+6
+30
+90
+270
+400
+550
+50
+50
+50

@@ -1,0 +1,12 @@
+title deed
+boardwalk
+indigo
+50
+200
+600
+1400
+1700
+2000
+200
+200
+200
